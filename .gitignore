@@ -1,0 +1,37 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Output directory for build tools (if any)
+dist/
+build/
+
+# Environment variables & secrets (CRITICAL: Keeps your token safe!)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

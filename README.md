@@ -6,6 +6,7 @@ A lightweight, modern, and highly modular Discord general community utility bot 
 <div align="center">
       <img src="https://img.shields.io/badge/Node.js-20+-339933?style=for-the-badge&logo=node.js" alt="Node.js 20+" />
        <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License" />
+       <img width="1376" height="768" alt="image_48cb4eee" src="https://github.com/user-attachments/assets/d1878551-c166-4b18-a5bc-d0e21e99c542" />
 
 ## ✨ Features & Commands
 

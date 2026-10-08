@@ -1,0 +1,14 @@
+{
+  "name": "nova-probot-utility",
+  "version": "1.0.0",
+  "description": "A clean utility bot built with Components V2",
+  "main": "src/index.js",
+  "scripts": {
+    "register": "node src/register.js",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}

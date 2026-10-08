@@ -3,11 +3,9 @@
 A lightweight, modern, and highly modular Discord general community utility bot built with **Discord.js v14**. Inspired by the multi-purpose utility frameworks of ProBot and Nova, this bot features a professional **Command Handler** architecture designed for optimal performance, stability, and scale.
 
 <!-- Shields & Badges -->
-🆕 ![Discord.js Version](https://shields.io)
-🟢 ![Node.js Engine](https://shields.io)
-📄 ![License](https://shields.io)
-⚡ ![Architecture](https://shields.io)
-
+<div align="center">
+      <img src="https://img.shields.io/badge/Node.js-20+-339933?style=for-the-badge&logo=node.js" alt="Node.js 20+" />
+       <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License" />
 ---
 
 ## ✨ Features & Commands

@@ -1,4 +1,4 @@
-# 🤖 NovaPro Utility Bot
+# 🤖 Utility Bot
 
 A lightweight, modern, and highly modular Discord general community utility bot built with **Discord.js v14**. Inspired by the multi-purpose utility frameworks of ProBot and Nova, this bot features a professional **Command Handler** architecture designed for optimal performance, stability, and scale.
 
@@ -51,7 +51,19 @@ my-discord-bot/
     └── commands/         # Modular command scripts
         ├── user.js
         ├── server.js
-        └── ... (12 more command files)
+        ├── avatar.js
+        ├── roll.js
+        ├── kick.js
+        ├── ban.js
+        ├── clear.js
+        ├── ping.js
+        ├── botinfo.js
+        ├── flip.js
+        ├── 8ball.js
+        ├── joke.js
+        ├── poll.js
+        └── warn.js
+
 ```
 
 ---
@@ -88,6 +100,7 @@ npm run start
 ```
 
 ---
-
+Made With Love M5
+EnzoCord
 ## 📜 License
 Distributed under the **MIT License**. See `LICENSE` for more details.

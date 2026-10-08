@@ -39,27 +39,27 @@ The workspace operates on an asynchronous command router built into a dynamic di
 
 ```text
 my-discord-bot/
-├── .env                  # Secret application configuration files
-├── package.json          # Node engine dependency and build matrix mappings
-├── README.md             # Repository operational summaries 
-└── src/
-    ├── index.js          # Core execution driver and command event routers
-    ├── register.js       # Discord global command map synchronization tools
-    └── commands/         # Modular command scripts
-        ├── user.js
-        ├── server.js
-        ├── avatar.js
-        ├── roll.js
-        ├── kick.js
-        ├── ban.js
-        ├── clear.js
-        ├── ping.js
-        ├── botinfo.js
-        ├── flip.js
-        ├── 8ball.js
-        ├── joke.js
-        ├── poll.js
-        └── warn.js
+        ├── .env.example          # Secret application configuration files Rename .env.example to .env
+        ├── package.json          # Node engine dependency and build matrix mappings
+        ├── README.md             # Repository operational summaries 
+        └── src/
+               ├── index.js          # Core execution driver and command event routers
+               ├── register.js       # Discord global command map synchronization tools
+                              └── commands/         # Modular command scripts
+                                           ├── user.js
+                                           ├── server.js
+                                           ├── avatar.js
+                                           ├── roll.js
+                                           ├── kick.js
+                                           ├── ban.js
+                                           ├── clear.js
+                                           ├── ping.js
+                                           ├── botinfo.js
+                                           ├── flip.js
+                                           ├── 8ball.js
+                                           ├── joke.js
+                                           ├── poll.js
+                                           └── warn.js
 
 ```
 
